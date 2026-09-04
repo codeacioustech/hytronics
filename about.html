@@ -28,8 +28,6 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;font-family:"Montserrat",Arial,Helvetica,sans-serif;font-size:15px;font-weight:300;line-height:1.65;color:var(--text);background:#fff;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
-main#main-content{padding-left:10%;padding-right:10%;}
-
 img{display:block;max-width:100%;height:auto}
 a{color:#167f86;text-decoration:none}
 a:hover,a:focus-visible{color:var(--red);text-decoration:none}
@@ -151,7 +149,7 @@ h1,h2,h3,h4,h5,h6{color:#151515}
 
 /* Footer */
 .footer-main{background:var(--footer);color:#aaa;padding:55px 0 48px}
-.footer-grid{display:grid;grid-template-columns:4fr 3fr 3fr 2fr;gap:34px}
+.footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:34px}
 .footer-main h2{margin:0 0 18px;color:#fff;font-size:18px;line-height:1.25;font-weight:900}
 .footer-main p{margin:0 0 15px}
 .footer-main a{color:#aaa}
@@ -230,7 +228,7 @@ h1,h2,h3,h4,h5,h6{color:#151515}
   .subscribe-form{display:block}.subscribe-form input[type="email"],.subscribe-form button{width:100%}.subscribe-form button{margin-top:8px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.market-card-inner,.menu-icon,.menu-icon::before,.menu-icon::after,.primary-nav,.scroll-top{transition:none!important}.market-card:hover .market-card-inner,.market-card:focus-within .market-card-inner{transform:none}.market-back{display:none}}
-.faq{margin:40px 0 20px;text-align:left}.faq h2{font-size:22px;font-weight:800;margin:0 0 14px;color:var(--charcoal)}.faq details{border:1px solid var(--border);padding:12px 14px;margin:0 0 10px;background:#fff}.faq summary{cursor:pointer;font-weight:700;color:#222}.faq details p{margin:10px 0 0;color:var(--muted)}
+.faq{margin-block:40px 20px;text-align:left}.faq h2{font-size:22px;font-weight:800;margin:0 0 14px;color:var(--charcoal)}.faq details{border:1px solid var(--border);padding:12px 14px;margin:0 0 10px;background:#fff}.faq summary{cursor:pointer;font-weight:700;color:#222}.faq details p{margin:10px 0 0;color:var(--muted)}
 </style>
 
   <script type="application/ld+json">
@@ -358,7 +356,7 @@ h1,h2,h3,h4,h5,h6{color:#151515}
 
       <h1 align="center">About Hytronics Corp.</h1>
 
-
+      <div class="profile-grid">
         <div class="profile-image">
           <img
             src="assets/hytronics-florida.jpg"
@@ -486,15 +484,15 @@ h1,h2,h3,h4,h5,h6{color:#151515}
           </ul>
 
         </div>
-
-
-    </div>
+      </div>
 
       <section class="faq" aria-label="Frequently asked questions">
         <h2>Frequently Asked Questions</h2>
         <details><summary>Where does Hytronics manufacture?</summary><p>Hytronics manufactures in the United States and Costa Rica and is ISO 9001:2015 registered.</p></details>
         <details><summary>Which MIL-PRF magnetics does Hytronics offer?</summary><p>Military products include MIL-PRF-27 custom magnetics and MIL-PRF-21038 standard magnetics, plus MIL-STD-1553 transformer examples such as HY1553-45, HY1553-51, HYSM1553-45, and HYDGL1553-45.</p></details>
       </section>
+
+    </div>
   </section>
 
 
@@ -610,7 +608,7 @@ h1,h2,h3,h4,h5,h6{color:#151515}
       <div class="container footer-grid">
         <section>
           <h2>About the Company</h2>
-          <p>Hytronics designs and manufacturers Common Mode Chokes, Toroidal Transformer, Low Profile Transformer &amp; Planar Transformer for Military and Industrial customers.</p>
+          <p>Hytronics designs and manufactures Common Mode Chokes, Toroidal Transformer, Low Profile Transformer &amp; Planar Transformer for Military and Industrial customers.</p>
          
         </section>
 
