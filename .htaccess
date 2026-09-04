@@ -1,7 +1,9 @@
 # Hytronics Corp. — Apache / cPanel
-# Canonical host: hytronicscorp.com → www.hytronicscorp.com (301).
+# Canonical host: force HTTPS + apex → www.hytronicscorp.com (301).
 <IfModule mod_rewrite.c>
   RewriteEngine On
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
   RewriteCond %{HTTP_HOST} ^hytronicscorp\.com$ [NC]
   RewriteRule ^ https://www.hytronicscorp.com%{REQUEST_URI} [R=301,L]
 </IfModule>

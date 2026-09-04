@@ -1,8 +1,14 @@
 # Hytronics Corp.
 
-> Custom magnetics, transformers, inductors, and common mode chokes for military, aerospace, industrial, and telecommunications OEMs. Part of Electro Technik Industries, Inc.
+> Custom magnetics, transformers, inductors, and common mode chokes for military, aerospace, industrial, and telecommunications OEMs. Part of Electro Technik Industries, Inc. Headquarters: Clearwater, Florida, USA.
 
 Hytronics has designed and manufactured custom magnetics for over 40 years (established 1967). Capabilities include toroidal transformers, inductors, common mode chokes, air coils, and power magnetics. Military offerings include MIL-STD-1553, MIL-PRF-27, and MIL-PRF-21038. ISO 9001:2015 registered with manufacturing in the US and Costa Rica. Cage Code: 29525.
+
+## Who / What / Where
+
+- **Who:** Hytronics Corp. (Cage Code 29525), a division/sister brand under Electro Technik Industries, Inc.
+- **What:** Custom magnetics design and manufacturing — transformers, inductors, common mode chokes, power magnetics, MIL-STD-1553 transformers.
+- **Where:** Clearwater, Florida, USA (P.O. Box 18802, Clearwater, FL 33762); manufacturing centers in the United States and Costa Rica.
 
 ## Contact
 

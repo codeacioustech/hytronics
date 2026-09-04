@@ -10,8 +10,18 @@ Hytronics Corp. designs and manufactures commercial and military chokes, inducto
 - Established: 1967
 - Cage Code: 29525
 - Quality: ISO 9001:2015 (Florida and Costa Rica certificates available on site)
+- Headquarters / contact: Clearwater, Florida, USA
 - Manufacturing centers: United States and Costa Rica
 - Parent: Electro Technik Industries, Inc. (ETI)
+
+## Location (GEO)
+
+- Mailing address: P.O. Box 18802, Clearwater, FL 33762, USA
+- Region: Pinellas County / Tampa Bay area, Florida
+- Phone: +1 (727) 535-0413
+- Fax: 727-531-1592
+- Email: HYTRONICS@ELECTROTECHNIK.COM
+- Coordinates (approx.): 27.9659, -82.8001
 
 ## Capabilities (from company profile)
 
