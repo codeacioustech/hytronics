@@ -107,10 +107,11 @@ h1,h2,h3,h4,h5,h6{color:#151515}
 .company-profile h1{margin:0 0 34px;font-size:32px;line-height:1.2;font-weight:900;text-transform:uppercase}
 .profile-grid{display:grid;grid-template-columns:minmax(260px,4fr) minmax(0,8fr);gap:48px;align-items:start}
 .profile-image img{width:100%;height:auto;border:1px solid #e1e1e1}
-.profile-content p{margin:0 0 16px}
-.profile-content ul{margin:0 0 20px;padding-left:22px}
-.profile-content li{margin-bottom:8px}
-.profile-content a{font-weight:500}
+.profile-content p,.profile-details p{margin:0 0 16px}
+.profile-content ul,.profile-details ul{margin:0 0 20px;padding-left:22px}
+.profile-content li,.profile-details li{margin-bottom:8px}
+.profile-content a,.profile-details a{font-weight:500}
+.profile-details{margin-top:36px}
 .magnetics-products{padding:45px 0 85px;background:#f5f5f5}
 .about-product-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}
 .product-item{display:grid;grid-template-columns:170px minmax(0,1fr);gap:22px;align-items:start;background:#fff;border:1px solid #ddd;padding:22px}
@@ -394,96 +395,98 @@ h1,h2,h3,h4,h5,h6{color:#151515}
             available for high-frequency LAN applications.
           </p>
 
-          <p>
-            Military products include <strong>MIL-PRF-27</strong> custom
-            magnetics and <strong>MIL-PRF-21038</strong> standard magnetics.
-            Example specifications include:
-          </p>
-
-          <ul>
-            <li>
-              <a
-                href="assets/HY1553-45_Hytronics.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                HY1553-45
-              </a>
-              — through-the-board, dual ratio, -45
-            </li>
-
-            <li>
-              <a
-                href="assets/HY1553-51_Hytronics.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                HY1553-51
-              </a>
-              — through-the-board, single ratio, -51
-            </li>
-
-            <li>
-              <a
-                href="assets/HYSM1553-45_Hytronics.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                HYSM1553-45
-              </a>
-              — surface-mount, dual ratio, low profile, -45
-            </li>
-
-            <li>
-              <a
-                href="assets/HYDGL1553-45_Hytronics.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                HYDGL1553-45
-              </a>
-              — surface-mount, dual ratio, low profile, dual interface, -45
-            </li>
-          </ul>
-
-          <p>
-            To learn more about any of the above-described products, please
-            fill out and send the
-            <a
-              href="mailto:HYTRONICS@ELECTROTECHNIK.COM?subject=Product%20inquiry"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              product inquiry form
-            </a>,
-            or proceed to our
-            <a
-              href="contact.html"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              contact page
-            </a>
-            for additional information.
-          </p>
-
-          <ul>
-            <li>LAN applications; frequency capabilities up to 1 GHz.</li>
-            <li>50/60 Hz power capability to 1 KVA.</li>
-            <li>Considerable experience with high voltage devices to 30,000 Vdc/Vac.</li>
-            <li>
-              Surface mount packages available for both miniature power
-              inductors and switching power supply magnetics.
-            </li>
-            <li>
-              Specialty items include Scott-T devices, magnetic amplifiers,
-              magnetic shunt current limited transformers, ferro-resonant
-              transformers, custom and standard RF inductors, and high
-              frequency chip inductors.
-            </li>
-          </ul>
-
         </div>
+      </div>
+
+      <div class="profile-details">
+        <p>
+          Military products include <strong>MIL-PRF-27</strong> custom
+          magnetics and <strong>MIL-PRF-21038</strong> standard magnetics.
+          Example specifications include:
+        </p>
+
+        <ul>
+          <li>
+            <a
+              href="assets/HY1553-45_Hytronics.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              HY1553-45
+            </a>
+            — through-the-board, dual ratio, -45
+          </li>
+
+          <li>
+            <a
+              href="assets/HY1553-51_Hytronics.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              HY1553-51
+            </a>
+            — through-the-board, single ratio, -51
+          </li>
+
+          <li>
+            <a
+              href="assets/HYSM1553-45_Hytronics.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              HYSM1553-45
+            </a>
+            — surface-mount, dual ratio, low profile, -45
+          </li>
+
+          <li>
+            <a
+              href="assets/HYDGL1553-45_Hytronics.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              HYDGL1553-45
+            </a>
+            — surface-mount, dual ratio, low profile, dual interface, -45
+          </li>
+        </ul>
+
+        <p>
+          To learn more about any of the above-described products, please
+          fill out and send the
+          <a
+            href="mailto:HYTRONICS@ELECTROTECHNIK.COM?subject=Product%20inquiry"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            product inquiry form
+          </a>,
+          or proceed to our
+          <a
+            href="contact.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            contact page
+          </a>
+          for additional information.
+        </p>
+
+        <ul>
+          <li>LAN applications; frequency capabilities up to 1 GHz.</li>
+          <li>50/60 Hz power capability to 1 KVA.</li>
+          <li>Considerable experience with high voltage devices to 30,000 Vdc/Vac.</li>
+          <li>
+            Surface mount packages available for both miniature power
+            inductors and switching power supply magnetics.
+          </li>
+          <li>
+            Specialty items include Scott-T devices, magnetic amplifiers,
+            magnetic shunt current limited transformers, ferro-resonant
+            transformers, custom and standard RF inductors, and high
+            frequency chip inductors.
+          </li>
+        </ul>
       </div>
 
       <section class="faq" aria-label="Frequently asked questions">
