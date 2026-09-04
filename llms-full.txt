@@ -1,0 +1,46 @@
+# Hytronics Corp. — Full summary for AI agents
+
+Source site: https://www.hytronicscorp.com/
+Short index: https://www.hytronicscorp.com/llms.txt
+
+## Company
+
+Hytronics Corp. designs and manufactures commercial and military chokes, inductors, and transformers. Expertise includes high-frequency switching magnetics and telecommunication applications. Many standard designs are available for high-frequency LAN applications.
+
+- Established: 1967
+- Cage Code: 29525
+- Quality: ISO 9001:2015 (Florida and Costa Rica certificates available on site)
+- Manufacturing centers: United States and Costa Rica
+- Parent: Electro Technik Industries, Inc. (ETI)
+
+## Capabilities (from company profile)
+
+- LAN applications; frequency capabilities up to 1 GHz
+- 50/60 Hz power capability to 1 KVA
+- High voltage devices to 30,000 Vdc/Vac
+- Surface mount packages for miniature power inductors and switching power supply magnetics
+- Specialty: Scott-T devices, magnetic amplifiers, magnetic shunt current limited transformers, ferro-resonant transformers, custom and standard RF inductors, high voltage devices
+
+## Military product families
+
+| Spec / SKU | Notes | Datasheet |
+|---|---|---|
+| MIL-PRF-27 | Custom magnetics | — |
+| MIL-PRF-21038 | Standard magnetics | — |
+| MIL-STD-1553 | Transformers & magnetics | — |
+| HY1553-45 | Through-the-board, dual ratio, -45 | https://www.hytronicscorp.com/assets/HY1553-45_Hytronics.pdf |
+| HY1553-51 | Through-the-board, single ratio, -51 | https://www.hytronicscorp.com/assets/HY1553-51_Hytronics.pdf |
+| HYSM1553-45 | Surface-mount, dual ratio, low profile, -45 | https://www.hytronicscorp.com/assets/HYSM1553-45_Hytronics.pdf |
+| HYDGL1553-45 | Surface-mount, dual ratio, low profile, dual interface, -45 | https://www.hytronicscorp.com/assets/HYDGL1553-45_Hytronics.pdf |
+
+## Markets
+
+Military, aerospace, industrial, telecom / datacom.
+
+## Contact
+
+- P.O. Box 18802, Clearwater, FL 33762, USA
+- Phone: +1 (727) 535-0413
+- Fax: 727-531-1592
+- Email: HYTRONICS@ELECTROTECHNIK.COM
+- Web: https://www.hytronicscorp.com/contact.html

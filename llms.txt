@@ -1,0 +1,34 @@
+# Hytronics Corp.
+
+> Custom magnetics, transformers, inductors, and common mode chokes for military, aerospace, industrial, and telecommunications OEMs. Part of Electro Technik Industries, Inc.
+
+Hytronics has designed and manufactured custom magnetics for over 40 years (established 1967). Capabilities include toroidal transformers, inductors, common mode chokes, air coils, and power magnetics. Military offerings include MIL-STD-1553, MIL-PRF-27, and MIL-PRF-21038. ISO 9001:2015 registered with manufacturing in the US and Costa Rica. Cage Code: 29525.
+
+## Contact
+
+- Phone: 727-535-0413
+- Fax: 727-531-1592
+- Email: HYTRONICS@ELECTROTECHNIK.COM
+- Address: P.O. Box 18802, Clearwater, FL 33762, USA
+- Cage Code: 29525
+
+## Key pages
+
+- [Home](https://www.hytronicscorp.com/)
+- [About / Company Profile](https://www.hytronicscorp.com/about.html)
+- [Contact](https://www.hytronicscorp.com/contact.html)
+- [HTML Sitemap](https://www.hytronicscorp.com/sitemap.html)
+- [XML Sitemap](https://www.hytronicscorp.com/sitemap.xml)
+- [Full AI / LLM summary](https://www.hytronicscorp.com/llms-full.txt)
+
+## Example MIL-STD-1553 datasheets
+
+- [HY1553-45](https://www.hytronicscorp.com/assets/HY1553-45_Hytronics.pdf)
+- [HY1553-51](https://www.hytronicscorp.com/assets/HY1553-51_Hytronics.pdf)
+- [HYSM1553-45](https://www.hytronicscorp.com/assets/HYSM1553-45_Hytronics.pdf)
+- [HYDGL1553-45](https://www.hytronicscorp.com/assets/HYDGL1553-45_Hytronics.pdf)
+
+## Optional
+
+- Parent company: https://electrotechnik.com/
+- Sister companies: https://inductech.com/ · https://www.raycomelectronics.com/ · https://www.hymeg.com/
